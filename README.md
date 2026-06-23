@@ -96,8 +96,6 @@ All data is retrieved via the [FRED API](https://fred.stlouisfed.org/docs/api/fr
 
 ## Requirements
 
-- Python 3.x  
-- `requests`, `pandas`, `matplotlib`, `seaborn`, `numpy`, `scikit-learn`, `pmdarima`  
 - A free **FRED API key** — register at https://fred.stlouisfed.org/docs/api/fred/
 
 Set your API key in the notebook:
